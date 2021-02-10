@@ -1,0 +1,10 @@
+Part (a):
+johnSmithPossibleNames = [smithj, smithjo, smithjoh, smithjohn]
+Part (b):
+Original maryHartPossibleNames = [hartm, hartma, hartmar, hartmary]
+resetting available names... with used[] = {"harta", "hartm", "harty"}
+After setting maryHartPossibleNames = [hartma, hartmar, hartmary]
+Additional test:
+Original dorothyVaughanPossibleNames = [vaughand, vaughando, vaughandor, vaughandoro, vaughandorot, vaughandoroth, vaughandorothy]
+resetting available names... with used[] = {"vaughand","vaughando"}
+After setting dorthyVaughanPossibleNames = [vaughandor, vaughandoro, vaughandorot, vaughandoroth, vaughandorothy]
